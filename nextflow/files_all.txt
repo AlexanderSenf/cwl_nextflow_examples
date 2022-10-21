@@ -1,0 +1,10 @@
+/home/asenf/devel/pipelines/cwl/cwl_nextflow_examples/file001.bin
+/home/asenf/devel/pipelines/cwl/cwl_nextflow_examples/file002.bin
+/home/asenf/devel/pipelines/cwl/cwl_nextflow_examples/file003.bin
+/home/asenf/devel/pipelines/cwl/cwl_nextflow_examples/file004.bin
+/home/asenf/devel/pipelines/cwl/cwl_nextflow_examples/file005.bin
+/home/asenf/devel/pipelines/cwl/cwl_nextflow_examples/file006.bin
+/home/asenf/devel/pipelines/cwl/cwl_nextflow_examples/file007.bin
+/home/asenf/devel/pipelines/cwl/cwl_nextflow_examples/file008.bin
+/home/asenf/devel/pipelines/cwl/cwl_nextflow_examples/file009.bin
+/home/asenf/devel/pipelines/cwl/cwl_nextflow_examples/file010.bin

@@ -1,0 +1,2 @@
+/home/asenf/devel/pipelines/cwl/cwl_nextflow_examples/file001.bin
+/home/asenf/devel/pipelines/cwl/cwl_nextflow_examples/file002.bin
